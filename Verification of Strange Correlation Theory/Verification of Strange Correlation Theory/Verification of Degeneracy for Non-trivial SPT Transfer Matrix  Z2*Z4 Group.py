@@ -25,5 +25,4 @@ O = np.multiply(S_inv, O)
 print("Matrix S:\n{}".format(S))
 print("Matrix S_inv:\n{}".format(S_inv))
 print("Matrix O`:\n{}".format(O))
-x = 1j ** 0.25
-y = x.conjugate()
+
